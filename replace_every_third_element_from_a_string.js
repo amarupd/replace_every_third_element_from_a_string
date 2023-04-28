@@ -1,4 +1,4 @@
-//🙌🙌 replace every third element from a string 🙌🙌
+//🙌🙌 replace every third element with underscore from a string 🙌🙌
 
 function sentence(sen) {
     let str1 = str.replaceAll(" ", "")                                       // replacing all spaces with nospace
